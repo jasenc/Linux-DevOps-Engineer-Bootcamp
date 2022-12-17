@@ -1,4 +1,9 @@
 # Linux DevOps Engineer Bootcamp
 #### Linux Foundation
 
-[Cirriculum](https://drive.google.com/file/d/1eH_rkraYalF9uk7BccXEllSWNmMkMGRo/view)
+[Cirriculum](https://github.com/jasenc/Linux-DevOps-Engineer-Bootcamp/blob/main/cirriculum.jpg)
+
+Updated using Vim
+
+Jasen Carroll\
+16DEC2022
